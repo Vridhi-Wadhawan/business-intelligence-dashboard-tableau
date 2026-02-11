@@ -35,23 +35,35 @@ Each evaluation required:
 
 Below are selected high-impact dashboards from across quizzes, assignments, and final examination builds.
 
-![Dashboard 1](dashboard-1.png)
+![Dashboard 1](dashboard-1.jpeg)
 
 ---
 
-![Dashboard 2](dashboard-2.png)
+![Dashboard 2](dashboard-2.jpeg)
 
 ---
 
-![Dashboard 3](dashboard-3.png)
+![Dashboard 3](dashboard-3.jpeg)
 
 ---
 
-![Dashboard 4](dashboard-4.png)
+![Dashboard 4](dashboard-4.jpeg)
 
 ---
 
-![Dashboard 5](dashboard-5.png)
+![Dashboard 5](dashboard-5.jpeg)
+
+---
+
+![Dashboard 6](dashboard-6.jpeg)
+
+---
+
+![Dashboard 7](dashboard-7.jpeg)
+
+---
+
+![Dashboard 8](dashboard-8.jpeg)
 
 ---
 
