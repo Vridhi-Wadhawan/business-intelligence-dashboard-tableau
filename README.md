@@ -1,76 +1,105 @@
-# Business Intelligence Dashboard Portfolio (Tableau)
+# Business Intelligence & Data Visualization Portfolio (Tableau)
 
-This repository presents a curated collection of **business intelligence case studies** developed using Tableau.
+This repository contains a structured collection of **Tableau dashboards developed across multiple academic evaluations**, including:
 
-The dashboards were created across multiple academic evaluations (assignments, quizzes, and final examination), and collectively demonstrate applied skills in data storytelling, KPI design, and interactive dashboard development.
+- Quiz 1  
+- Quiz 2  
+- Individual Assignment  
+- Final Examination  
 
-Rather than representing a single project, this repository functions as a **dashboard portfolio** highlighting analytical thinking and visualization design across different business problems.
+Each set of dashboards was built independently under evaluation conditions to solve a specific business problem using data visualization and analytical reasoning.
 
----
-
-## Portfolio Overview
-
-This repository includes multiple dashboards developed for:
-
-- Individual Assignment
-- Quiz 1
-- Quiz 2
-- Final Examination
-
-Each dashboard addresses a distinct analytical objective, ranging from operational performance analysis to customer segmentation and KPI tracking.
+Rather than a single project, this repository demonstrates **consistency in analytical thinking across multiple business contexts**.
 
 ---
 
-## What This Portfolio Demonstrates
+## Portfolio Structure
 
-- KPI identification and business metric selection  
-- Interactive dashboard design using Tableau  
-- Data aggregation and drill-down analysis  
-- Comparative trend analysis  
-- Distribution and segmentation insights  
-- Executive-level data storytelling  
+The dashboards included in this repository were created as part of graded assessments and represent:
 
----
+- KPI-driven executive dashboards
+- Sales and profitability analysis
+- Regional performance evaluation
+- Customer segmentation insights
+- Operational trend and time-series analysis
 
-## Selected Dashboard Highlights
-
-The repository includes high-resolution previews of the strongest dashboards:
-
-- Executive KPI Overview Dashboard  
-- Regional / Segment Performance Analysis  
-- Customer Segmentation Dashboard  
-- Trend & Time-Series Analysis  
-- Comparative Category Performance Dashboard  
-
-Dashboard previews are available in the `/dashboard-previews` folder.
+Each evaluation required:
+- Independent problem framing
+- Metric selection
+- Data cleaning and preparation
+- Visual storytelling under time constraints
 
 ---
 
-## Tools & Environment
+## Representative Dashboards
 
-- Tableau Desktop (2023.x)
-- Microsoft Excel / CSV data sources
-- Basic data preprocessing prior to visualization
+Below are selected high-impact dashboards from across quizzes, assignments, and final examination builds.
 
----
-
-## Design Approach
-
-Each dashboard follows a structured approach:
-
-1. Business problem framing  
-2. Identification of relevant KPIs  
-3. Data cleaning and transformation  
-4. Visual hierarchy design  
-5. Interactivity through filters and drill-down controls  
-6. Insight-driven narrative structure  
-
-The emphasis is placed not only on visualization aesthetics but on **decision-support clarity**.
+![Dashboard 1](dashboard-1.png)
 
 ---
 
-## Notes
+![Dashboard 2](dashboard-2.png)
 
-- This repository is intended for portfolio demonstration.
-- Dashboards were created in an academic context but designed to reflect real-world BI practices.
-- The `.twbx` file contains the full interactive Tableau implementation.
+---
+
+![Dashboard 3](dashboard-3.png)
+
+---
+
+![Dashboard 4](dashboard-4.png)
+
+---
+
+![Dashboard 5](dashboard-5.png)
+
+---
+
+## Skills Demonstrated
+
+- Business problem interpretation under evaluation settings
+- KPI identification and metric alignment
+- Dashboard structuring for executive readability
+- Multi-level filtering and drill-down interactions
+- Comparative and trend-based performance analysis
+- Insight extraction under time-bound constraints
+- Data storytelling for business decision-making
+
+---
+
+## Analytical Workflow Followed
+
+Across quizzes, assignments, and the final exam, a consistent analytical framework was applied:
+
+![BI Workflow](analytics-workflow-architecture.png)
+
+### Workflow Stages
+
+1. Business Objective Clarification  
+2. KPI & Metric Identification  
+3. Data Preparation & Cleaning  
+4. Exploratory Data Analysis  
+5. Dashboard Structuring & Interaction Design  
+6. Insight Communication  
+
+This demonstrates structured BI development rather than isolated visual builds.
+
+---
+
+## How to View the Dashboards
+
+1. Download any `.twbx` file from the `/dashboards` folder.
+2. Open using Tableau Desktop.
+3. Navigate between worksheet and dashboard tabs.
+4. Use filters and drill-down interactions to explore insights.
+
+---
+
+## Key Takeaways
+
+- Strong BI work requires structured thinking beyond visual aesthetics  
+- KPI framing drives meaningful business interpretation  
+- Interactive dashboards improve executive usability  
+- Consistent methodology across multiple evaluation settings demonstrates analytical maturity  
+
+This repository reflects applied Business Intelligence development using Tableau across multiple formal evaluations.
